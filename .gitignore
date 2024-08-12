@@ -1,0 +1,6 @@
+.idea
+.env
+cdk.out
+terraform.plan
+terraform.tfstate
+terraform.tfstate.*
